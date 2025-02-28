@@ -1,1 +1,1 @@
-This code provides the analysis of Electric Vehicle population over the years across regions in USA
+The project presents an analysis of the Electric Vehicle population trends over the years across various regions in the USA. The PowerPoint presentation offers an overview of the project, including detailed insights from the analysis and the conclusion. The .ipynb files contain all the code utilized for the analysis.
